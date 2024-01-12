@@ -1,0 +1,9 @@
+{
+  "TxID": 0,
+  "Hash": "This is the genesis block.",
+  "Nonce": 0,
+  "Output": {
+    "Value": 10,
+    "ScriptPubKey": "[b'-----BEGIN PUBLIC KEY-----\\nMIIBtzCCASwGByqGSM44BAEwggEfAoGBAMEZDrnRdwYSsjU0PDpQ57L6IjVifhUj\\nAPGSt0C+rXQB6fRYnf6f0VudYYMq1w5z0GaxzQ/uuA6/ogSyQj5wjpLhsYs28YSR\\nyWpojCzeSYyFTJD7LqScu77OiGwP4mezktO/M1RfkrYgH8Ozu7tjQQmDcigjHEm1\\n3pGA8FT0xQcNAhUAnBvs/3K+OdoMwmwx7bGbGBUXpa8CgYEAjSMDNGBhKCJ2as59\\n92axuHWR6jmxwjYdjG+o+cRCSeNx0H/7oX9VPDYLRlmB92U8KCSQfTTz74/ygIVP\\noEOwwMAyxH05w7M9DMO2MPINKnA2PP64KXr1P7Og8wFXCj6cV6qDq57Cu0L6WzL4\\ngqlK8zdMSO9eZ0d13iVLOD8Ln/8DgYQAAoGARlBFkeYHYmaqSOu50z7TGCoJuNF2\\nxWjVmYP7WPjdHziHxxUZUsbtqP2E/pTrgfMlwDrfPyQ7d/1NCNfMqAfE4lpwmAeF\\nRUylmwMAawZIMk/qMZ0h3UyhlGvB7D4UGJKAiV6R3fMvHfrEqe61mSZ+VlTcBzvG\\ndYuqZdtY/A6VGZU=\\n-----END PUBLIC KEY-----'] OP_CHECKSIG"
+  }
+}
